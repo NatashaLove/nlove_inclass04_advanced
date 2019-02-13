@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
+//Example GUI - namespace/ folder
+using Example_GUI;
 
 namespace nlove_inclass04
 {
